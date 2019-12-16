@@ -1,0 +1,2 @@
+# Fantasy-Combat
+designing a program that simulates a fantasy combat game. The user will be able to choose from a menu with multiple characters. The user will choose two characters to battle until one of the characters dies. The characters have special characteristics that can be implemented during the fight. At the end of the battle, the user will be prompted to play again and choose another two characters or quit the game.
